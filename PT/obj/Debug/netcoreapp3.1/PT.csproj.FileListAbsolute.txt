@@ -1,0 +1,13 @@
+C:\Users\Семья\source\repos\PT\PT\bin\Debug\netcoreapp3.1\PT.exe
+C:\Users\Семья\source\repos\PT\PT\bin\Debug\netcoreapp3.1\PT.deps.json
+C:\Users\Семья\source\repos\PT\PT\bin\Debug\netcoreapp3.1\PT.runtimeconfig.json
+C:\Users\Семья\source\repos\PT\PT\bin\Debug\netcoreapp3.1\PT.runtimeconfig.dev.json
+C:\Users\Семья\source\repos\PT\PT\bin\Debug\netcoreapp3.1\PT.dll
+C:\Users\Семья\source\repos\PT\PT\bin\Debug\netcoreapp3.1\PT.pdb
+C:\Users\Семья\source\repos\PT\PT\obj\Debug\netcoreapp3.1\PT.AssemblyInfoInputs.cache
+C:\Users\Семья\source\repos\PT\PT\obj\Debug\netcoreapp3.1\PT.AssemblyInfo.cs
+C:\Users\Семья\source\repos\PT\PT\obj\Debug\netcoreapp3.1\PT.csproj.CoreCompileInputs.cache
+C:\Users\Семья\source\repos\PT\PT\obj\Debug\netcoreapp3.1\PT.dll
+C:\Users\Семья\source\repos\PT\PT\obj\Debug\netcoreapp3.1\PT.pdb
+C:\Users\Семья\source\repos\PT\PT\obj\Debug\netcoreapp3.1\PT.genruntimeconfig.cache
+C:\Users\Семья\source\repos\PT\PT\obj\Debug\netcoreapp3.1\PT.csprojAssemblyReference.cache
